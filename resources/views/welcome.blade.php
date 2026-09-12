@@ -107,7 +107,7 @@
     <div class="container-box">
 
          <div class="Verify">
-            <img src="" alt="Verify" class="lgi">
+            <img src="" alt="https://www.nicepng.com/ourpic/u2q8r5t4i1e6t4q8_verify-users-via-e-mail-verified-user/" class="Verify">
          </div>
 
          <div class="tpBox1">
