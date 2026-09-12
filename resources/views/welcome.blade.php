@@ -106,8 +106,8 @@
 
     <div class="container-box">
 
-         <div class="lgBox">
-            <img src="https://homenestapptime.netlify.app/download.jpeg" alt="lgw" class="lgi">
+         <div class="Verify">
+            <img src="" alt="Verify" class="lgi">
          </div>
 
          <div class="tpBox1">
